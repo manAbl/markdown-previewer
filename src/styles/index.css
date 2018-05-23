@@ -1,0 +1,9 @@
+body {
+  background: rgb(250, 200, 220);
+  color: black;
+}
+.app h2 {
+  text-align: center;
+  margin-bottom: 4rem;
+  text-decoration: underline dashed;
+}
